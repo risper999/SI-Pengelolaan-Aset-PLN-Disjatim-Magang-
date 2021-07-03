@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Font.Awesome</id>
+    <version>5.1.0</version>
+    <title>Font Awesome</title>
+    <authors>Dave Gandy,Tieson Trowbridge (NuGet package only)</authors>
+    <owners>tieson.trowbridge</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://fontawesome.com/license</licenseUrl>
+    <projectUrl>https://fontawesome.com/</projectUrl>
+    <description>Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.</description>
+    <summary>Font Awesome, the iconic font and CSS toolkit.</summary>
+    <releaseNotes>Updates to Font Awesome release 5.1
+
+Font Awesome 5 is a major update. You will likely need to adjust your fa classes. See https://fontawesome.com/how-to-use/upgrading-from-4
+
+Please note that this package is not maintained by the Font Awesome team.</releaseNotes>
+    <copyright>2018 Fonticons, Inc.</copyright>
+    <tags>font awesome FontAwesome FortAwesome</tags>
+  </metadata>
+</package>
